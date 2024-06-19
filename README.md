@@ -5,6 +5,9 @@
 
 This repository contains a project for classifying handwritten digits using the MNIST dataset. The MNIST dataset is a large database of handwritten digits commonly used for training various image processing systems.
 
+![image](https://github.com/sarmadsaleem333/MNIST-Digit-Classifier/assets/117517042/84972038-3713-4038-8994-5d1b506c5d4b)
+
+
 ## Table of Contents
 
 - [Overview](#overview)
