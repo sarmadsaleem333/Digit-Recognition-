@@ -9,12 +9,8 @@ This repository contains a project for classifying handwritten digits using the 
 
 - [Overview](#overview)
 - [Dataset](#dataset)
-- [Installation](#installation)
 - [Usage](#usage)
-- [Model](#model)
-- [Results](#results)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Overview
 
