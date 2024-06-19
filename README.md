@@ -28,8 +28,3 @@ The MNIST dataset contains 60,000 training images and 10,000 test images of hand
 3. **Evaluate the model**: Assess the performance of the model using test data.
 
 
-
-## Results
-
-The results of the models will be saved in the `results` directory. The performance metrics include accuracy, precision, recall, and F1 score.
-
